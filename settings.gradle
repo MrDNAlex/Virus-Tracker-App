@@ -1,0 +1,3 @@
+include ':IOS'
+rootProject.name = "Project Cytosine (Virus,iGotcha,Tracker)"
+include ':app'

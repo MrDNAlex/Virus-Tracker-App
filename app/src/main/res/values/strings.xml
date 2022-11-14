@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project Cytosine (Virus,iGotcha,Tracker)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AccSettings">Settings</string>
+    <string name="AccInfo">Account Info</string>
+    <string name="AccData">Account Data</string>
+
+
+</resources>

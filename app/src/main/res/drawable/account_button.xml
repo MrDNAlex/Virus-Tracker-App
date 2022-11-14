@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid
+        android:color="#34dcfa">
+
+    </solid>
+
+    <corners
+        android:radius="20dp">
+
+    </corners>
+
+    <size android:height="40dp" android:width="200dp" >
+
+    </size>
+
+    <!-- TODO: Update blank fragment layout
+       <gradient
+        android:centerColor="#1aaad6"
+        android:endColor="#ee41fa"
+        android:startColor="#6500a3"
+        android:type="linear">
+
+    </gradient>
+-->
+
+
+</shape>
